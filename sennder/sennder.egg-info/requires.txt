@@ -1,0 +1,9 @@
+redis==3.5.0
+celery==4.4.2
+flask==1.1.2
+flask-restful==0.3.8
+requests==2.23.0
+uwsgi==2.0.18
+python-dotenv==0.13.0
+pytest==5.4.1
+coverage==5.1
